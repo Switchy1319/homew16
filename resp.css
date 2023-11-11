@@ -1,0 +1,121 @@
+@media(width > 1440px){
+    .main{
+        width: 100vw;
+        display: block;
+        justify-content: center;
+    }
+    header{
+        width: 100vw;
+    }
+    body{
+    
+        width: 100vw;
+    }
+    header{
+        width: 100vw;
+        background-image: url(src//llll.svg);
+        background-size: 100vw, 100vw;
+        display: grid;
+
+        justify-content: center;
+        position: relative;
+    }
+    .but{
+        display: flex;
+    }
+    .a{
+        width: 730px;
+        font-size: 46px;
+    }
+    .clip{
+        width: 730px;
+    }
+    .download{
+        margin-top: 0;
+    }
+    .mrgavli{
+        margin-left: 325px;
+    }
+    .pirveli{
+        display: grid;
+        justify-content: center;
+    }
+    .keep{
+        width: 730px;
+        font-size: 36px;
+
+    }
+    .L{
+        display: block;
+        width: 100vw;
+        margin-top: 150px;
+    }
+    .k{
+        display: block;
+    }
+    .oc{
+        display: none;
+    }
+    .raxdeba{
+        width: 730px;
+        font-size: 18px;
+    }
+    .meotxe{
+        display: grid;
+        justify-content: center;
+    }
+    .mexute{
+        display: grid;
+        justify-content: center;
+    }
+    .meore{
+        display: flex;
+        justify-content: center;
+    }
+    .click{
+        width: 730px;
+        font-size: 36px;
+
+    }
+    .fut{
+        display: none;
+    }
+    .av{
+        width: 730px;
+    }
+    .xoxo{
+        width: 752px;
+        height: 572px;
+        margin-left: -250px;
+        margin-right: 100px;
+    }
+    .work{
+        width: 730px;
+        font-size: 36px;
+        margin-left: 150px;    
+    }
+    .we{
+        width: 730px;
+        margin-left: 150px;
+    }
+    .pass{
+        margin-top: 150px;
+        display: grid;
+        justify-content: center;
+    }
+    .plas{
+        width: 812px;
+        height: 475px;
+    }
+    .left{
+        display: none;
+    }
+    .mesame{
+        display: grid;
+        justify-content: center;
+    }
+
+
+
+
+}
